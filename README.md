@@ -1,2 +1,2 @@
 # RandomColor_generator
-Random Color Generator using JS
+Random Color Generator using HTML ,CSS and JS
